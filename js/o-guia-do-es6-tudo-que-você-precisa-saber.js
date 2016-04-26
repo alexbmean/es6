@@ -1,0 +1,1 @@
+// https://medium.com/@matheusml/o-guia-do-es6-tudo-que-voc%C3%AA-precisa-saber-8c287876325f#.hnfi2v217
